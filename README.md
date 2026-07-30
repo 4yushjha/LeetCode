@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/4yushjha/LeetCode/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/4yushjha/LeetCode/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,5 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/4yushjha/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/4yushjha/LeetCode/tree/master/0263-ugly-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/4yushjha/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/4yushjha/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
