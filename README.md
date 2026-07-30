@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/4yushjha/LeetCode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/4yushjha/LeetCode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
