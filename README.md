@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/4yushjha/LeetCode/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/4yushjha/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
