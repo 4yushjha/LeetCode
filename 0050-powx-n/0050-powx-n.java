@@ -11,11 +11,11 @@ class Solution {
         double currentProduct = x;
         
         while (N > 0) {
-            if (N % 2 == 1) { // if N is odd
+            if (N % 2 == 1) { 
                 result *= currentProduct;
             }
-            currentProduct *= currentProduct; // square the base
-            N /= 2; // halve the exponent
+            currentProduct *= currentProduct; 
+            N /= 2; 
         }
         
         return result;
