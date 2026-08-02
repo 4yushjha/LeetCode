@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/4yushjha/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/4yushjha/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/4yushjha/LeetCode/tree/master/0263-ugly-number) |
 ## Enumeration
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/4yushjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/4yushjha/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
