@@ -8,16 +8,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/4yushjha/LeetCode/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/4yushjha/LeetCode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/4yushjha/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/4yushjha/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/4yushjha/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/4yushjha/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -43,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/4yushjha/LeetCode/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
