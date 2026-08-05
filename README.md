@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/4yushjha/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/4yushjha/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/4yushjha/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3731-find-missing-elements](https://github.com/4yushjha/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/4yushjha/LeetCode/tree/master/3731-find-missing-elements) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/4yushjha/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
