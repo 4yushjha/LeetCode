@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/4yushjha/LeetCode/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/4yushjha/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/4yushjha/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3731-find-missing-elements](https://github.com/4yushjha/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/4yushjha/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/4yushjha/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/4yushjha/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Enumeration
 |  |
 | ------- |
