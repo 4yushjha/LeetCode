@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/4yushjha/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/4yushjha/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3536-maximum-product-of-two-digits](https://github.com/4yushjha/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/4yushjha/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/4yushjha/LeetCode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
