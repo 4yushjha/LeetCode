@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/4yushjha/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/4yushjha/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/4yushjha/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/4yushjha/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/4yushjha/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/4yushjha/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
