@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/4yushjha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/4yushjha/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/4yushjha/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/4yushjha/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/4yushjha/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/4yushjha/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/4yushjha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/4yushjha/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/4yushjha/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/4yushjha/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/4yushjha/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
