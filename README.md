@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/4yushjha/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/4yushjha/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/4yushjha/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1927-sum-game](https://github.com/4yushjha/LeetCode/tree/master/1927-sum-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/4yushjha/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/4yushjha/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/4yushjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/4yushjha/LeetCode/tree/master/0058-length-of-last-word) |
+| [1927-sum-game](https://github.com/4yushjha/LeetCode/tree/master/1927-sum-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/4yushjha/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/4yushjha/LeetCode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/4yushjha/LeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
