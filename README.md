@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/4yushjha/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/4yushjha/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/4yushjha/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/4yushjha/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/4yushjha/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/4yushjha/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/4yushjha/LeetCode/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/4yushjha/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/4yushjha/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
