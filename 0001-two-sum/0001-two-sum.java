@@ -9,7 +9,7 @@ class Solution {
             
             
         }
-        return new int[]{-1,-1};
+        return new int[]{-2,-2};
         
     }
 }
