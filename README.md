@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/4yushjha/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/4yushjha/LeetCode/tree/master/0326-power-of-three) |
+| [0400-nth-digit](https://github.com/4yushjha/LeetCode/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/4yushjha/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/4yushjha/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/4yushjha/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/4yushjha/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/4yushjha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/4yushjha/LeetCode/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/4yushjha/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/4yushjha/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/4yushjha/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
