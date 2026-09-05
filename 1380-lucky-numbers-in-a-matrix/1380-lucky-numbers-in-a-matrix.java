@@ -24,15 +24,15 @@ class Solution {
        }
 
         // Step 3: Check lucky numbers
-        List<Integer> lucky = new ArrayList<>();
+        List<Integer> luck = new ArrayList<>();
         for (int i = 0; i < M; i++) {
             for (int j = 0; j < N; j++) {
                 if (matrix[i][j] == list1.get(i) && matrix[i][j] == list2.get(j)) {
-                    lucky.add(matrix[i][j]);
+                    luck.add(matrix[i][j]);
                 }
             }
         }
 
-        return lucky;
+        return luck;
     }
 }
