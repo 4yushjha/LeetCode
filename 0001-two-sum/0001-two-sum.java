@@ -14,6 +14,6 @@ class Solution {
             map.put(nums[i], i);
         }
         
-        return new int[]{-1, -1}; // return -1 if no solution
+        return new int[]{-2, -2}; // return -1 if no solution
     }
 }
