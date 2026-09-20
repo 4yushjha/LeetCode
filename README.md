@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/4yushjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/4yushjha/LeetCode/tree/master/0058-length-of-last-word) |
 | [1927-sum-game](https://github.com/4yushjha/LeetCode/tree/master/1927-sum-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/4yushjha/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/4yushjha/LeetCode/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/4yushjha/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/4yushjha/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/4yushjha/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
