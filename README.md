@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/4yushjha/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/4yushjha/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/4yushjha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/4yushjha/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/4yushjha/LeetCode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/4yushjha/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/4yushjha/LeetCode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/4yushjha/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/4yushjha/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/4yushjha/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/4yushjha/LeetCode/tree/master/0263-ugly-number) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/4yushjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/4yushjha/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/4yushjha/LeetCode/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/4yushjha/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/4yushjha/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String Matching
