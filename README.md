@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/4yushjha/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/4yushjha/LeetCode/tree/master/0326-power-of-three) |
 | [0400-nth-digit](https://github.com/4yushjha/LeetCode/tree/master/0400-nth-digit) |
+| [0415-add-strings](https://github.com/4yushjha/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/4yushjha/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/4yushjha/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/4yushjha/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/4yushjha/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/4yushjha/LeetCode/tree/master/0058-length-of-last-word) |
+| [0415-add-strings](https://github.com/4yushjha/LeetCode/tree/master/0415-add-strings) |
 | [1927-sum-game](https://github.com/4yushjha/LeetCode/tree/master/1927-sum-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/4yushjha/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/4yushjha/LeetCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/4yushjha/LeetCode/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/4yushjha/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/4yushjha/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/4yushjha/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
